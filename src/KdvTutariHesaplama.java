@@ -1,8 +1,3 @@
-# KDV-Tutari-Hesaplayan-Program
-Java KDV Tutari Hesaplayan Program
-
-www.patika.dev
-
 import java.util.Scanner;
 
 public class Main {
